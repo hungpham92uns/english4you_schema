@@ -1,0 +1,26 @@
+{
+	"_id": "",
+	"source": 1, //Economy, Jim,...
+	"order": 0,
+	"audio": {
+		"length": 0,
+		"url": ""
+	},
+	"image": "",
+	"text": "",
+	"part": 1,
+	"type": 1, //TOEIC, TOEFL,...
+	"items": [
+		{
+			"id": "",
+			"text": "",
+			"answers": [
+				{
+					"id": "",
+					"text": "",
+					"correct": true
+				}
+			]
+		}
+	]
+}
